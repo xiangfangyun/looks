@@ -1,0 +1,326 @@
+{
+	"Nose": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"Blemishes": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"Liners": {
+		"Up": {
+			"Visual": [{
+				"Color": "#493a37",
+				"Intensity": 0
+			}],
+			"Enable": true,
+			"Template": "eyeline_upper0.ini"
+		},
+		"Down": {
+			"Visual": [{
+				"Color": "#493a37",
+				"Intensity": 0
+			}],
+			"Enable": true,
+			"Template": "eyeline_lower0.ini"
+		}
+	},
+	"Whiten": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"CGlitterLower": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#ffffff",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"ShadowUpper": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#ffffff",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"ContourShadow": {
+		"Enable": false,
+		"Visual": [{
+			"Intensity": 0,
+			"Area": 3,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}, {
+			"Intensity": 0,
+			"Area": 2,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}, {
+			"Intensity": 0,
+			"Area": 1,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}, {
+			"Intensity": 0,
+			"Area": 4,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}]
+	},
+	"LipTattoo": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"CheekUp": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"Shadow": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#744edf",
+			"Intensity": 0
+		}, {
+			"Color": "#c19b81",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"LipLine": {
+		"Intensity": 0,
+		"Color": 0,
+		"ThickIntensity": 0,
+		"Enable": false
+	},
+	"Glitter": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"Color": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#171c1c",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"FPaint": {
+		"Intensity": 0,
+		"Enable": false,
+		"Template": "none.ini"
+	},
+	"Lashes": {
+		"Tag": {
+			"BrandCode": "113",
+			"Series": "p_1712",
+			"FeatureInfo": [{
+				"TemplateKey": "pt_52",
+				"ColorKey": ["pc_123123123"],
+				"BrandColorkey": "113",
+				"BrandTemplateKey": "113",
+				"TemplateType": "1",
+				"SeriesTemplateKey": "p_1712",
+				"SeriesColorkey": "p_1712"
+			}]
+		},
+		"Up": {
+			"Visual": [{
+				"Color": "#FF0000",
+				"Intensity": 80
+			}],
+			"Enable": true,
+			"Template": "brand_002_eyelash_upper75.ini"
+		},
+		"Down": {
+			"Visual": [{
+				"Color": "#FF0000",
+				"Intensity": 80
+			}],
+			"Enable": true,
+			"Template": "eyelash_lower_zz001.ini"
+		}
+	},
+	"Lipstick": {
+		"Intensity": 0,
+		"Color": "#01000000",
+		"Template": "lip_default.ini",
+		"Enable": false
+	},
+	"Soft": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"ContourLight": {
+		"Enable": false,
+		"Visual": [{
+			"Intensity": 0,
+			"Area": 3,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}, {
+			"Intensity": 0,
+			"Area": 2,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}, {
+			"Intensity": 0,
+			"Area": 1,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}, {
+			"Intensity": 0,
+			"Area": 4,
+			"Template": "none.ini",
+			"Color": "#01000000"
+		}]
+	},
+	"CEyeLiner": {
+		"Up": {
+			"Visual": [{
+				"Intensity": 0
+			}],
+			"Enable": false,
+			"Template": "none.ini"
+		},
+		"Down": {
+			"Visual": [{
+				"Intensity": 0
+			}],
+			"Enable": false,
+			"Template": "none.ini"
+		}
+	},
+	"Blush": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#ffa3bc",
+			"Intensity": 0
+		}, {
+			"Color": "#f78469",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"Hair2": {
+		"Color": {
+			"Intensity": 100,
+			"ColorType": 1,
+			"LightIntensity": 65,
+			"ColorTemplate": "brand_1_olia_1_3_16"
+		},
+		"Type": 2,
+		"Template": "158.ini",
+		"Tag": {
+			"BrandCode": "122",
+			"Series": "pt_18004",
+			"FeatureInfo": [{
+				"TemplateKey": "pt_18006",
+				"ColorKey": ["pc_1231231233"],
+				"BrandColorkey": "122",
+				"BrandTemplateKey": "122",
+				"TemplateType": "0",
+				"SeriesTemplateKey": "pt_18004",
+				"SeriesColorkey": "pt_18004"
+			}]
+		}
+	},
+	"Gloss": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"CGlitterUpper": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#ffffff",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"Enlarge": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"EyebrowThick": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"Foundation": {
+		"Enable": false,
+		"Visual": [{
+			"Color": "#01000000",
+			"Intensity": 0
+		}]
+	},
+	"ShadowLower": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#ffffff",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"Slim": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"Circles": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"LipMatte": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"Eyebrow": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Color": "#493a37",
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"FacePaint": {
+		"Intensity": 0,
+		"Enable": false,
+		"Template": "none.ini"
+	},
+	"FaceShape": {
+		"Intensity": 0,
+		"Enable": false,
+		"Template": "none.ini"
+	},
+	"GlitterLower": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"Brighten": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"GlitterUpper": {
+		"Template": "none.ini",
+		"Visual": [{
+			"Intensity": 0
+		}],
+		"Enable": false
+	},
+	"Teeth": {
+		"Intensity": 0,
+		"Enable": false
+	},
+	"Smile": {
+		"Intensity": 0,
+		"Enable": false
+	}
+}
